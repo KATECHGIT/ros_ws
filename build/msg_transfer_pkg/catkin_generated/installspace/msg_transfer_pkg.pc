@@ -1,0 +1,8 @@
+prefix=/home/katech/catkin_ws/install
+
+Name: msg_transfer_pkg
+Description: Description of msg_transfer_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/katech/catkin_ws/install/lib 
+Requires: 

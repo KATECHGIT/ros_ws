@@ -1,0 +1,2 @@
+can_test_pkg:katech_msg_test_pkg:msg_transfer_pkg:test_ros_pkg
+-DCATKIN_DEVEL_PREFIX=/home/katech/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/katech/catkin_ws/install -G Unix Makefiles

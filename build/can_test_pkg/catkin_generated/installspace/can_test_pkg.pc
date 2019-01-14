@@ -1,0 +1,8 @@
+prefix=/home/katech/catkin_ws/install
+
+Name: can_test_pkg
+Description: Description of can_test_pkg
+Version: 0.0.0
+Cflags: -I/home/katech/catkin_ws/install/include
+Libs: -L/home/katech/catkin_ws/install/lib 
+Requires: 

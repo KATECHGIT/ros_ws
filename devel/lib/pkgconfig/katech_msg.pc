@@ -1,0 +1,8 @@
+prefix=/home/katech/catkin_ws/devel
+
+Name: katech_msg
+Description: Description of katech_msg
+Version: 0.0.1
+Cflags: -I/home/katech/catkin_ws/devel/include
+Libs: -L/home/katech/catkin_ws/devel/lib 
+Requires: message_runtime std_msgs

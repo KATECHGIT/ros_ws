@@ -1,0 +1,9 @@
+
+(cl:in-package :asdf)
+
+(defsystem "katech_test_msg-msg"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils )
+  :components ((:file "_package")
+    (:file "KatechTest" :depends-on ("_package_KatechTest"))
+    (:file "_package_KatechTest" :depends-on ("_package"))
+  ))

@@ -1,0 +1,8 @@
+prefix=/home/katech/catkin_ws/install
+
+Name: test_msgs
+Description: Description of test_msgs
+Version: 0.0.1
+Cflags: -I/home/katech/catkin_ws/install/include
+Libs: -L/home/katech/catkin_ws/install/lib 
+Requires: message_runtime std_msgs
